@@ -5,7 +5,7 @@ import psycopg2
 ENDPOINT= "database-1.cfgug4m84026.us-east-1.rds.amazonaws.com"
 PORT= "5432"
 USER= "postgres"
-PASSWORD = "Student11"
+PASSWORD = "Student1"
 REGION= "us-east-1"
 DBNAME= "postgres"
 
